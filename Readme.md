@@ -21,7 +21,6 @@ header-includes: |
       \cfoot[C]{\includegraphics[height=2cm]{docs/footer.png}}}
 ---
 
-
 # Mehr von Bouncer
 
 ## Wichtige Informationen zur Bearbeitung der Aufgabe 
@@ -35,9 +34,8 @@ Ein vorbereitetes Starterpaket zur selbständigen Implementierung der Aufgabe fi
 
 ## **Bouncer auf Schatzsuche**
 
-![](docs/pool_start.png) 
-![](docs/pool_finished.png)
-<div class="img-label">Der See vor und nachdem Bouncer nach den Schätzen getaucht ist.</div>
+![Der See bevor Bouncer alle Schätze geborgen hat.](docs/pool_start.png) 
+![Der See nachdem Bouncer die Schätze gehoben hat.](docs/pool_finished.png)
 
 Bouncer steht in dieser Aufgabe vor einem See, in dem eine Reihe von
 versunkenen Schätze auf dem Grund liegen (*rote Felder*). Bouncers
@@ -106,9 +104,8 @@ handelt. Möglicherweise können Sie den nötigen Algorithmus auf Basis
 Ihres aktuellen Wissens nicht aufstellen. Es handelt sich explizit um
 eine optionale Aufgabe, an der Sie *tüfteln* können.
 
-![](docs/wall_start.png) 
-![](docs/wall_finished.png)
-<div class="img-label">Die beschädigte Mauer zu Begin des Programms und nachdem Bouncer sie repariert hat. Am linken Rand ist der Stapel mit den Ersatzteilen zu sehen.</div>
+![Die beschädigte Mauer zu Begin des Programms. Am linken Rand ist der Stapel mit den Ersatzteilen zu sehen.](docs/wall_start.png) 
+![Die Mauer, nachdem Bouncer sie repariert hat.](docs/wall_finished.png)
 
 Als Hilfestellung können Sie von folgenden Teilproblemen ausgehen, die
 im Rahmen des Programms gelöst werden müssen.
@@ -133,7 +130,7 @@ im Rahmen des Programms gelöst werden müssen.
     und Stapel mit dieser Methodik zu kennzeichnen.
     
 ## **Bouncer hat Hunger**
-![Diese Kirschen muss Bouncer aufessen.](docs/Kirschen.png)
+![Diese Kirschen muss/will Bouncer aufessen.](docs/Kirschen.png)
 
 In dieser Aufgabe liegen in Bouncers Welt einige Kirschen, die Bouncer
 sich vorknöpfen möchte. Schreiben Sie ein Programm, mit dem Sie jede
