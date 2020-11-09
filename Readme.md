@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Mehr von Bouncer
 author: Zuletzt bearbeitet von Jürgen Hahn, Verwendung von Material von Alexander Bazo
 documentclass: scrartcl
 classoption:
@@ -12,12 +12,12 @@ header-includes: |
     \pagestyle{fancy}
     \fancyhf{}
     \rhead{OOP WS 2020/21}
-    \lhead{U00 | Template}
+    \lhead{U02 | Mehr von Bouncer}
     \cfoot{\includegraphics[height=2cm]{docs/footer.png}}
     \fancypagestyle{plain}{
       \fancyhf{}
       \rhead{OOP WS 2020/21}
-      \lhead{U00 | Template}
+      \lhead{U02 | Mehr von Bouncer}
       \cfoot[C]{\includegraphics[height=2cm]{docs/footer.png}}}
 ---
 
