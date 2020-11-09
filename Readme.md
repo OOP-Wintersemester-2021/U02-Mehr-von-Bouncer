@@ -106,6 +106,10 @@ fortsetzen.
 
 ## **Bouncer repariert eine Mauer**
 
+![Die beschädigte Mauer zu Begin des Programms. Am linken Rand ist der Stapel mit den Ersatzteilen zu sehen.](docs/wall_start.png) 
+
+![Die Mauer, nachdem Bouncer sie repariert hat.](docs/wall_finished.png)
+
 In dieser Aufgabe soll Bouncer eine Mauer reparieren. Höhe der Mauer und
 Anzahl der beschädigten Felder sind dabei unbekannt. Bouncer weiß nur,
 dass die linke Seite der Mauer - die erste Spalte - immer intakt ist.
@@ -131,10 +135,6 @@ wollen, werden Sie merken, dass es sich um ein komplexes Programm
 handelt. Möglicherweise können Sie den nötigen Algorithmus auf Basis
 Ihres aktuellen Wissens nicht aufstellen. Es handelt sich explizit um
 eine optionale Aufgabe, an der Sie *tüfteln* können.
-
-![Die beschädigte Mauer zu Begin des Programms. Am linken Rand ist der Stapel mit den Ersatzteilen zu sehen.](docs/wall_start.png) 
-
-![Die Mauer, nachdem Bouncer sie repariert hat.](docs/wall_finished.png)
 
 Als Hilfestellung können Sie von folgenden Teilproblemen ausgehen, die
 im Rahmen des Programms gelöst werden müssen.
