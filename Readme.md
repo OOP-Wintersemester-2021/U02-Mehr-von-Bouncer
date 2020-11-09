@@ -33,6 +33,7 @@ header-includes: |
 Ein vorbereitetes Starterpaket zur selbständigen Implementierung der Aufgabe finden Sie [hier](https://github.com/OOP-Ubungen-WS2020-21/U02-Mehr-von-Bouncer/archive/Loesung.zip).
 
 ## **Bouncer hat Hunger**
+
 ![Diese Kirschen muss/will Bouncer aufessen.](docs/Kirschen.png)
 
 In dieser Aufgabe liegen in Bouncers Welt einige Kirschen, die Bouncer
@@ -57,7 +58,9 @@ Achten Sie darauf, sowohl den Code als auch die Kommentare (z.B. *pre*-
 und *post-conditions*) in Englisch zu schreiben. Verwenden Sie
 aussagekräftige Bezeichnungen für Ihre eigenen Methoden.
 
+
 ## **Bouncer auf Schatzsuche**
+
 
 ![Der See bevor Bouncer alle Schätze geborgen hat.](docs/pool_start.png) 
 
@@ -101,6 +104,7 @@ Ein Tipp: Das Bergen eines einzelnen Schatzes unterbricht die größere
 Aufgabe des Suchens auf dem Seegrund. Nach dem erfolgreichen Bergen muss
 Bouncer die Suche nach den anderen Schätzen an der richtigen Stelle
 fortsetzen.
+
 
 ## **Bouncer repariert eine Mauer**
 
