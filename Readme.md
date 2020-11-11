@@ -30,7 +30,7 @@ header-includes: |
 
 ## Starterpaket
 
-Ein vorbereitetes Starterpaket zur selbständigen Implementierung der Aufgabe finden Sie [hier](https://github.com/OOP-Ubungen-WS2020-21/U02-Mehr-von-Bouncer/archive/Loesung.zip).
+Ein vorbereitetes Starterpaket zur selbständigen Implementierung der Aufgabe finden Sie [hier](https://github.com/OOP-Ubungen-WS2020-21/U02-Mehr-von-Bouncer/archive/Starterpaket.zip).
 
 ## **Bouncer hat Hunger**
 
