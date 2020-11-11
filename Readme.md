@@ -34,7 +34,7 @@ Ein vorbereitetes Starterpaket zur selbständigen Implementierung der Aufgabe fi
 
 ## **Bouncer hat Hunger**
 
-![Diese Kirschen muss/will Bouncer aufessen.](docs/Kirschen.png)
+![Diese Kirschen muss/will Bouncer aufessen.](docs/Kirschen.png){ width=50% }
 
 In dieser Aufgabe liegen in Bouncers Welt einige Kirschen, die Bouncer
 sich vorknöpfen möchte. Schreiben Sie ein Programm, mit dem Sie jede
@@ -60,9 +60,9 @@ aussagekräftige Bezeichnungen für Ihre eigenen Methoden.
 
 ## **Bouncer auf Schatzsuche**
 
-![Der See bevor Bouncer alle Schätze geborgen hat.](docs/pool_start.png) 
+![Der See bevor Bouncer alle Schätze geborgen hat.](docs/pool_start.png){ width=50% }
 
-![Der See nachdem Bouncer die Schätze gehoben hat.](docs/pool_finished.png)
+![Der See nachdem Bouncer die Schätze gehoben hat.](docs/pool_finished.png){ width=50% }
 
 Bouncer steht in dieser Aufgabe vor einem See, in dem eine Reihe von
 versunkenen Schätze auf dem Grund liegen (*rote Felder*). Bouncers
@@ -108,7 +108,7 @@ fortsetzen.
 
 ![Die beschädigte Mauer zu Begin des Programms. Am linken Rand ist der Stapel mit den Ersatzteilen zu sehen.](docs/wall_start.png) 
 
-![Die Mauer, nachdem Bouncer sie repariert hat.](docs/wall_finished.png)
+![Die Mauer, nachdem Bouncer sie repariert hat.](docs/wall_finished.png){ width=50% }
 
 In dieser Aufgabe soll Bouncer eine Mauer reparieren. Höhe der Mauer und
 Anzahl der beschädigten Felder sind dabei unbekannt. Bouncer weiß nur,
